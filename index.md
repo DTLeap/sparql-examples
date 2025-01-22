@@ -1,7 +1,7 @@
 ---
-title: "ERDERA SPARQL Examples"
+title: "DTLeap SPARQL Examples"
 layout: default
-description: "A collection of SPARQL examples for various ERDERA projects."
+description: "A collection of SPARQL examples for various DTLeap projects."
 permalink: /erdera-sparql-examples/
 author: 
   name: "Andra Waagmeester" # Replace with the actual author's name
